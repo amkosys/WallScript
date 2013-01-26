@@ -1,0 +1,6 @@
+- WallScript is very easy to configure in your existing Codeigniter Framework.
+- Simply copy the Controller/View inside "client" application and paste it in your existing project.
+- All Images, CSS, and JS are included inside "assets" folder
+- It may require to change the path of CSS/JS/Images as per your framework structure.
+- Feel Free to contact me regarding any query at amar@amkosys.com (http://www.amkosys.com)
+
